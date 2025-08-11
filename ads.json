@@ -2,19 +2,19 @@
   "i3lan1": {
     "link": "https://example.com",
     "target": "_blank",
-    "desktop": "https://via.placeholder.com/728x90?text=Banner+Desktop+1",
-    "mobile": "https://via.placeholder.com/300x250?text=Banner+Mobile+1"
+    "desktop": "https://placehold.co/728x90?text=Banner+Desktop+1",
+    "mobile": "https://placehold.co/300x250?text=Banner+Mobile+1"
   },
     "i3lan2": {
     "link": "https://example.com",
     "target": "_blank",
-    "desktop": "https://via.placeholder.com/728x90?text=Banner+Desktop+1",
-    "mobile": "https://via.placeholder.com/300x250?text=Banner+Mobile+1"
+    "desktop": "https://placehold.co/728x90?text=Banner+Desktop+1",
+    "mobile": "https://placehold.co/300x250?text=Banner+Mobile+1"
   },
   "i3lan3": {
     "link": "https://example.com/2",
     "target": "_self",
-    "desktop": "https://via.placeholder.com/728x90?text=Banner+Desktop+2",
-    "mobile": "https://via.placeholder.com/300x250?text=Banner+Mobile+2"
+    "desktop": "https://placehold.co/728x90?text=Banner+Desktop+2",
+    "mobile": "https://placehold.co/300x250?text=Banner+Mobile+2"
   }
 }
