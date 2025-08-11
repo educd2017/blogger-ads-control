@@ -2,8 +2,8 @@
   "i3lan1": {
     "link": "https://example.com",
     "target": "_blank",
-    "desktop": "https://placehold.co/728x90?text=Banner+Desktop+1",
-    "mobile": "https://placehold.co/300x250?text=Banner+Mobile+1"
+    "desktop": "https://placehold.co/728x90",
+    "mobile": "https://placehold.co/300x250"
   },
     "i3lan2": {
     "link": "https://example.com",
